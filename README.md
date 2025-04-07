@@ -1,5 +1,10 @@
 # Dark-Light Mode Toggle
 
+![Languages Count](https://img.shields.io/github/languages/count/madhu-aala/dark-light-mode)
+![Code Size](https://img.shields.io/github/languages/code-size/madhu-aala/dark-light-mode)
+![Repo Size](https://img.shields.io/github/repo-size/madhu-aala/dark-light-mode)
+![Last Commit](https://img.shields.io/github/last-commit/madhu-aala/dark-light-mode)
+
 This project provides a simple implementation of a dark and light mode toggle feature for web pages. It allows users to switch between dark and light themes seamlessly, enhancing the user experience.
 
 ## Features
